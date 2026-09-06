@@ -1,0 +1,23 @@
+{
+  "repo": "lantern-vpn-pro-pc-windows-guide",
+  "product": "Lantern VPN Pro PC Windows Guide",
+  "kind": "network",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "network",
+  "topics": [
+    "lantern-vpn",
+    "censorship-circumvent",
+    "p2p-assist",
+    "fast-proxy",
+    "travel-access",
+    "lantern-setup-failed-fix",
+    "how-to-install-lantern",
+    "lantern-windows",
+    "lantern-desktop-2026",
+    "lantern-desktop-package"
+  ],
+  "site": "toolix.me"
+}
